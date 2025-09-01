@@ -1,1 +1,2 @@
-# potential-giggle
+# potential
+this is my first class
